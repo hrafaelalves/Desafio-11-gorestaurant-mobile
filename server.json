@@ -52,6 +52,26 @@
           "value": 1.5
         }
       ]
+    },
+    {
+      "category": 2,
+      "id": 4
+    },
+    {
+      "category": 1,
+      "id": 5
+    },
+    {
+      "category": 1,
+      "id": 6
+    },
+    {
+      "category": 2,
+      "id": 7
+    },
+    {
+      "category": 1,
+      "id": 8
     }
   ],
   "categories": [
